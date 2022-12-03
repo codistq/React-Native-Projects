@@ -1,0 +1,1 @@
+export {default} from "./NewCard" // newscard ı import et bu dosyadan ne geliyordsa al yakala  burdan direkt çekeriz.
